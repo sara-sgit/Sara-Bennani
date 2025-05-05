@@ -119,7 +119,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-      <NavLogo href="/">SARA</NavLogo>
+      <NavLogo href="#About">SARA</NavLogo>
  
 
 
